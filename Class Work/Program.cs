@@ -18,7 +18,9 @@ namespace Class_Work
         //syntax of a method
         //access specifier return type method name(parameters)
 
-        public void Sound(string sound)
+        public void MAKEsOUND() { }
+        
+        public void Sound()
         {
             Console.WriteLine("The sound of the animal is " + sound);
         }
