@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,8 +12,6 @@ namespace Class_Work
         public int NoofLegs;
 
         //int hairs;//automatic assigned as a private property
-
-        //main function - local scope
 
         //syntax of a method
         //access specifier return type method name(parameters)
