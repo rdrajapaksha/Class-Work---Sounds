@@ -13,7 +13,7 @@ namespace Class_Work
 
         //int hairs;//automatic assigned as a private property
 
-        //syntax of a method
+        //syntax of method
         //access specifier return type method name(parameters)
 
         public void MAKEsOUND() { }
